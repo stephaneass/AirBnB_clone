@@ -29,7 +29,7 @@
     height: 100%;
     width: 25%;
     padding: 15px, 40px;
-    
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     position: relative;
